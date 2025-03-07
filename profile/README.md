@@ -4,22 +4,13 @@
 
 👋 Hey! This is the GitHub organization of [Inovector](https://inovector.com).
 
-We provide full-service consulting for every stage of your digital project. We are specializing in Laravel, React, Next.js, Vue.js and Tailwind CSS.
-
-Aside from client work, a major focus of ours is creating open source and our own digital products.
-
-Join our community:
- - [Discord](https://discord.gg/5YdseZnK2Z)
- - [Facebook Private Group](https://www.facebook.com/groups/inovector)
+Unlock your potential with tools designed to simplify marketing, drive growth, and make your work easier. Perfect for small businesses, agencies, and freelancers aiming to achieve more with less effort.
 
 ## Our active products
 
 **Mixpost** - Self-hosted social media management software
-- Github: https://github.com/inovector/mixpost
 - Website: https://mixpost.app/
-
-**Import Fly** - Add CSV import functionality to your app in minutes
-- Website: https://import-fly.inovector.com/
+- Github: https://github.com/inovector/mixpost
 
 ## Content
 We sometimes write articles on our [blog](https://inovector.com/blog). 
